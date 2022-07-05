@@ -76,26 +76,31 @@ p{
 }
 
 .experience-item-two{
-    width: 1170px;
+    width: 90%;
     margin-left: 5%;
     margin-right: 0;
     padding-left: 20px;
     border-radius: 10px;
     box-shadow: 10px 10px 40px gray;
+    display: flex;
+    margin-bottom: 20px;
     
 
 }
 .first{
     text-align: left;
+    width: 30%;
 }
 .Second-text{
     text-align: center;
     padding: 0;
     margin: 0;
+    width: 30%;
 
 }
 .Third-text{
     text-align: right;
+    width: 30%;
 }
 footer{
     text-align: center;
